@@ -33,4 +33,14 @@ Object() - Parent of all objects
 
 
 
+FORMS
+BASIC VALIDATION - when you check all the required fields are fullfield  
+DATA FORMAT VALIDATION - check if the format or pattern is correct
+
+
+FUNCTION
+validate()
+onsubmit -validate upon submission
+
+
 
