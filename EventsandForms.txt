@@ -1,0 +1,36 @@
+Form Validiation or Events
+
+DOM - Document object model
+to get the elements on your html
+
+
+WHAR IS EVENT
+- for each load 
+- every move or your mouse
+- any key on you keyboard
+- so every mouse movement 
+
+every code in Javascript is OOP
+- Encasulation - hide yor data
+- Aggregation - put elements in particular object
+- Inheritance - 
+- POlymor - function acn adapt whatever is given to it 
+
+objectName.objectProperty
+
+METHODS
+this - if you are referring to the same element
+
+
+PRINTING
+document.write("This is test"); 
+innerHTML
+
+to create an object we use new keyword
+
+
+Object() - Parent of all objects
+
+
+
+
